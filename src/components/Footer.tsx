@@ -87,7 +87,7 @@ export function Footer() {
             <ul className="space-y-3">
               <li>
                 <a
-                  href="https://apps.apple.com"
+                  href="https://apps.apple.com/us/app/connexa-relationship-builder/id6755447170"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-sm text-slate-400 transition-colors hover:text-white"
@@ -104,7 +104,7 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="https://play.google.com"
+                  href="https://play.google.com/store/apps/details?id=com.aleksandr.antonenko.mux.Connexa&pcampaignid=web_share"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-sm text-slate-400 transition-colors hover:text-white"

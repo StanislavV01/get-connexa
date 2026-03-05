@@ -21,7 +21,9 @@ export default function Home() {
           </p>
           <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <a
-              href="#download"
+              href="https://apps.apple.com/us/app/connexa-relationship-builder/id6755447170"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-full bg-[#3B82F6] px-8 py-3.5 text-base font-medium text-white shadow-lg shadow-blue-500/25 transition hover:bg-[#2563EB]"
             >
               {/* Apple icon */}
@@ -35,7 +37,9 @@ export default function Home() {
               Download for iOS
             </a>
             <a
-              href="#download"
+              href="https://play.google.com/store/apps/details?id=com.aleksandr.antonenko.mux.Connexa&pcampaignid=web_share"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-full border border-[#0F172A]/20 px-8 py-3.5 text-base font-medium text-[#0F172A] transition hover:border-[#0F172A]/40 hover:bg-[#0F172A]/5"
             >
               {/* Android icon */}
@@ -425,7 +429,9 @@ export default function Home() {
           </p>
           <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <a
-              href="#download"
+              href="https://apps.apple.com/us/app/connexa-relationship-builder/id6755447170"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-full bg-white px-8 py-3.5 text-base font-medium text-[#0F172A] shadow-lg transition hover:bg-white/90"
             >
               <svg
@@ -438,7 +444,9 @@ export default function Home() {
               Download for iOS
             </a>
             <a
-              href="#download"
+              href="https://play.google.com/store/apps/details?id=com.aleksandr.antonenko.mux.Connexa&pcampaignid=web_share"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-full border-2 border-white px-8 py-3.5 text-base font-medium text-white transition hover:bg-white/10"
             >
               <svg
